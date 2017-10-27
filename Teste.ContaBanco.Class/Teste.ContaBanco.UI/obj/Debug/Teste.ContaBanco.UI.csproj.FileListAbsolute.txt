@@ -1,0 +1,12 @@
+C:\WS\testecontabanco\Teste.ContaBanco.Class\Teste.ContaBanco.UI\obj\Debug\Teste.ContaBanco.UI.csprojResolveAssemblyReference.cache
+C:\WS\testecontabanco\Teste.ContaBanco.Class\Teste.ContaBanco.UI\obj\Debug\Teste.ContaBanco.UI.Form1.resources
+C:\WS\testecontabanco\Teste.ContaBanco.Class\Teste.ContaBanco.UI\obj\Debug\Teste.ContaBanco.UI.Properties.Resources.resources
+C:\WS\testecontabanco\Teste.ContaBanco.Class\Teste.ContaBanco.UI\obj\Debug\Teste.ContaBanco.UI.csproj.GenerateResource.Cache
+C:\WS\testecontabanco\Teste.ContaBanco.Class\Teste.ContaBanco.UI\obj\Debug\Teste.ContaBanco.UI.csproj.CoreCompileInputs.cache
+C:\WS\testecontabanco\Teste.ContaBanco.Class\Teste.ContaBanco.UI\bin\Debug\Teste.ContaBanco.UI.exe.config
+C:\WS\testecontabanco\Teste.ContaBanco.Class\Teste.ContaBanco.UI\bin\Debug\Teste.ContaBanco.UI.exe
+C:\WS\testecontabanco\Teste.ContaBanco.Class\Teste.ContaBanco.UI\bin\Debug\Teste.ContaBanco.UI.pdb
+C:\WS\testecontabanco\Teste.ContaBanco.Class\Teste.ContaBanco.UI\bin\Debug\Teste.ContaBanco.Class.dll
+C:\WS\testecontabanco\Teste.ContaBanco.Class\Teste.ContaBanco.UI\bin\Debug\Teste.ContaBanco.Class.pdb
+C:\WS\testecontabanco\Teste.ContaBanco.Class\Teste.ContaBanco.UI\obj\Debug\Teste.ContaBanco.UI.exe
+C:\WS\testecontabanco\Teste.ContaBanco.Class\Teste.ContaBanco.UI\obj\Debug\Teste.ContaBanco.UI.pdb
