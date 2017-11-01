@@ -1,0 +1,12 @@
+C:\WS\testecontabanco\Teste.ContaBanco.Class\Teste.ContaBanco.Class\obj\Debug\Teste.ContaBanco.Class.csprojResolveAssemblyReference.cache
+C:\WS\testecontabanco\Teste.ContaBanco.Class\Teste.ContaBanco.Class\obj\Debug\Teste.ContaBanco.Class.csproj.CoreCompileInputs.cache
+C:\WS\testecontabanco\Teste.ContaBanco.Class\Teste.ContaBanco.Class\bin\Debug\Teste.ContaBanco.Class.dll
+C:\WS\testecontabanco\Teste.ContaBanco.Class\Teste.ContaBanco.Class\bin\Debug\Teste.ContaBanco.Class.pdb
+C:\WS\testecontabanco\Teste.ContaBanco.Class\Teste.ContaBanco.Class\obj\Debug\Teste.ContaBanco.Class.dll
+C:\WS\testecontabanco\Teste.ContaBanco.Class\Teste.ContaBanco.Class\obj\Debug\Teste.ContaBanco.Class.pdb
+C:\WS\PROJETO-BANCO-REP\testecontabancoESSEAQUI\Teste.ContaBanco.Class\Teste.ContaBanco.Class\bin\Debug\Teste.ContaBanco.Class.dll
+C:\WS\PROJETO-BANCO-REP\testecontabancoESSEAQUI\Teste.ContaBanco.Class\Teste.ContaBanco.Class\bin\Debug\Teste.ContaBanco.Class.pdb
+C:\WS\PROJETO-BANCO-REP\testecontabancoESSEAQUI\Teste.ContaBanco.Class\Teste.ContaBanco.Class\obj\Debug\Teste.ContaBanco.Class.csprojResolveAssemblyReference.cache
+C:\WS\PROJETO-BANCO-REP\testecontabancoESSEAQUI\Teste.ContaBanco.Class\Teste.ContaBanco.Class\obj\Debug\Teste.ContaBanco.Class.csproj.CoreCompileInputs.cache
+C:\WS\PROJETO-BANCO-REP\testecontabancoESSEAQUI\Teste.ContaBanco.Class\Teste.ContaBanco.Class\obj\Debug\Teste.ContaBanco.Class.dll
+C:\WS\PROJETO-BANCO-REP\testecontabancoESSEAQUI\Teste.ContaBanco.Class\Teste.ContaBanco.Class\obj\Debug\Teste.ContaBanco.Class.pdb
