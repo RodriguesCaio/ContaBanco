@@ -55,9 +55,9 @@ namespace Teste.ContaBanco.UI
 
             lstExtrato.Items.Add(lstClientes);
 
-            //lstExtrato.Items.Add(pessoa.Nome + " | " + "Numero da conta: " +
-            //    pessoa.NumeroConta + " | " + Opcao + " | Valor: " + Convert.ToDouble(txtValor.Text)
-            //    + " | Saldo em conta: " + pessoa.SaldoEmConta);
+            lstExtrato.Items.Add(pessoa.Nome + " | " + "Numero da conta: " +
+                pessoa.NumeroConta + " | " + Opcao + " | Valor: " + Convert.ToDouble(txtValor.Text)
+                + " | Saldo em conta: " + pessoa.SaldoEmConta);
         }
     }
 }
